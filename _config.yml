@@ -18,18 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The Space Prorgram 
-email: your-email@example.com
+title: The SPACE Program 
+# email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the homepwage for the SPACE Program, the Sub-Neptune Planetary Atmosphere
   Characterization Experiment. SPACE is an HST Large Treasury Program.
 baseurl: "SPACE-program" # the subpath of your site, e.g. /blog
 url: "lkreidberg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: lkreidberg 
-github_username:  lkreidberg
+# twitter_username: lkreidberg 
+# github_username:  lkreidberg
 
 # Build settings
-theme: minima
+theme: beautiful-jekyll-theme
 plugins:
   - jekyll-feed
 
