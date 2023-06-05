@@ -1,5 +1,17 @@
 # gh-pages-minima-starter
 
+
+LK note: to get the remote server running, follow instructions here: https://stackoverflow.com/questions/65989040/bundle-exec-jekyll-serve-cannot-load-such-file
+
+gem install github-pages
+gem install jekyll
+gem install jekyll-feed
+bundle update
+bundle exec jekyll serve
+
+
+
+
 This is a template and some instructions for running Github Pages with the [`minima` theme][minima]. This repo has what I consider the minimum pieces for a personal blog using [Jekyll][jk] and [Github Pages][gh-site]:
 
 * Frontpage that includes your last blog posts: `_pages/frontpage.md`
