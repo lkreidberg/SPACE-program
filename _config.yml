@@ -38,8 +38,10 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-- title: Blog
-  url: /blog/
+- title: News 
+  url: /news/
+- title: Code of Conduct 
+  url: /coc/
 
 # Footer nav
 navigation_footer:
