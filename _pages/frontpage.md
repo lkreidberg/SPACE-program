@@ -1,23 +1,20 @@
 ---
 permalink: /
 layout: home
-title: Welcome
-list_title: My blog posts
+title: About 
+list_title: Welcome
 ---
 
-This is a template and some instructions for running Github Pages with the [`minima` theme][minima]. This repo has what I consider the minimum pieces for a personal blog using [Jekyll][jk] and [Github Pages][gh-site].
+Welcome to the the SPACE Program! SPACE: a Sub-neptune Planetary Atmosphere Characterization Experiment, is a Hubble Space Telescope Large Treasury Program ([GO 17192][abstract]) that will characterize the atmospheres and host stars of eight sub-Neptune exoplanets. 
 
-Check out the excellent [`minima` theme][minima] documentation for further details and customization and the [official docs][gh] for more details on how Github Pages work.
+Sub-Neptunes, with radii between 2 and 3.5x that of the Earth, are one of the most common types of exoplanets, and yet there are still major open questions about how they form and evolve. This program will systematically study sub-Neptunes across a grid of planet radius and temperature, specifically designed to reveal how their atmospheres are shaped by UV photochemistry, equilibrium cloud formation, atmospheric metal enrichment, vertical mixing, and photoevaporation.
 
-Do you have questions? feel free to [open an issue](https://github.com/jsanz/gh-pages-minima-starter/issues/new/choose) or reach me from my [contact form](https://www.jorgesanz.net/contact/).
+The program is part of the broader [HST-TESS Exoplanet Initiative][HST-TESS], which was recommended by STScI to capitalize on the wealth of sub-Neptunes discovered by the Transiting Exoplanet Survey Satellite.
 
-<img src="./assets/imgs/screenshot.png" width="400px">
 
-For more details about how this example site works checkout [the github project](https://github.com/jsanz/gh-pages-minima-starter). Do you have questions? feel free to [open an issue](https://github.com/jsanz/gh-pages-minima-starter/issues/new/choose) or reach me from this [contact form](https://www.jorgesanz.net/contact/).
+<img src="./assets/imgs/massradius.png" width="700px">
 
-Have a great day!!
 
-[gh-site]: https://pages.github.com/
-[minima]: https://github.com/jekyll/minima/tree/2.5-stable
-[jk]: https://jekyllrb.com/
-[gh]: https://help.github.com/en/github/working-with-github-pages`
+
+[abstract]: https://ui.adsabs.harvard.edu/abs/2022hst..prop17192K/abstract
+[HST-TESS]: https://hst-docs.stsci.edu/hsp/hubble-space-telescope-call-for-proposals-for-cycle-31/hst-special-initiatives 

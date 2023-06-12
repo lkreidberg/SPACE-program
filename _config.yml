@@ -1,15 +1,14 @@
-title: My blog
-description: My very nice blog
-author: "Jorge Sanz"
+title: The SPACE Program
+description: a Sub-neptune Planetary Atmosphere Characterization Experiment 
+author: "Laura Kreidberg"
 
 theme: minima
 
 base_url: /gh-pages-minima-starter
 
 # Minima social links
-twitter_username: xurxosanz
-github_username: jsanz
-linkedin_username: jsanz
+twitter_username: lkreidberg 
+github_username: lkreidberg 
 rss: rss
 
 # Minima: show excerpts in the frontpage
@@ -21,8 +20,9 @@ minima:
 # Minima: custom header links
 header_pages:
   - _pages/frontpage.md
-  - _pages/about.md
+  - _pages/targets.md
   - _pages/archive.md
+  - _pages/coc.md
 
 include:
     - _pages
