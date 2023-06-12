@@ -24,13 +24,15 @@ continued growth. As members of this global community:
  
 **This code of conduct applies to all community situations online and offline, including mailing lists, forums, social media, conferences, meetings, associated social events, and one-to-one interactions.**
 
-**Reporting**: Please report any violations of the Code of Conduct to the owners of the [`mpi-astronomy` [GitHub organization](https://github.com/orgs/mpi-astronomy/people)]. As community leaders we are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful. All community leaders are obligated to respect the privacy and security of the reporter of any incident.
+**Reporting**: Please report any violations of the Code of Conduct to the SPACE Program co-PIs, Laura Kreidberg and Drake Deming. As community leaders we are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful. All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
-**Enforcement**: We follow the enforcement guidelines of the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/). [For MPIA employees, the matter will be referred to the contacts listed in Section 7 of the [MPIA Work Agreement](https://intranet.mpia.de/4404342/03-Works-agreement-code-of-conduct.pdf) (intranet link). 
+**Enforcement**: We follow the enforcement guidelines of the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/). 
 For external people, the owners of the GitHub organization will decide in consultation with the MPIA directorate.]
 
-Parts of this code of conduct have been adapted from the Astropy and NumFOCUS codes of conduct:
+Parts of this code of conduct have been adapted from the Astropy, NumFOCUS, and MPIA GitHub codes of conduct:
 
 https://www.astropy.org/code_of_conduct.html
 
 https://www.numfocus.org/about/code-of-conduct/
+
+https://github.com/mpi-astronomy
