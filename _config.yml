@@ -21,7 +21,6 @@ minima:
 header_pages:
   - _pages/frontpage.md
   - _pages/targets.md
-  - _pages/archive.md
   - _pages/coc.md
 
 include:
